@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder gambar Kos Lodaya 9</title>
+  <desc id="desc">Ganti file ini atau ubah atribut src pada tag gambar dengan foto asli.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#dff8fc"/>
+      <stop offset="1" stop-color="#eef4f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="110" y="110" width="980" height="580" rx="28" fill="#ffffff" opacity=".72"/>
+  <path d="M250 540 455 360l142 126 94-86 258 140H250Z" fill="#11b8d4" opacity=".34"/>
+  <circle cx="812" cy="265" r="74" fill="#21d36b" opacity=".36"/>
+  <text x="600" y="642" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#0796b4">Ganti dengan foto asli</text>
+</svg>
